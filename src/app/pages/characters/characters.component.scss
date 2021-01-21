@@ -1,0 +1,11 @@
+@import '../../styles/color.scss';
+@import '../../styles/mixins.scss';
+
+section{
+    background-color: $accent;
+    @include base();
+    flex-wrap: wrap;
+    color: $font-color;
+}
+
+

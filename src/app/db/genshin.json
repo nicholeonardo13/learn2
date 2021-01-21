@@ -1,0 +1,552 @@
+{
+    "characters":[
+        {
+            "name": "Albedo",
+            "titles": [
+                "Kreideprinz",
+                "The Chalk Prince",
+                "Chief Alchemist",
+                "Captain of the Investigation Team"
+            ],
+            "element": "Geo",
+            "weapontype": "Sword",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "September 13",
+            "constellation": "Princeps Cretaceus",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Element_Geo.png",
+            "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+            "url": "https://genshin-impact.fandom.com/wiki/Albedo"
+        },
+        {            
+            "name": "Amber",
+            "titles": [
+                "Outrider",
+                "Champion Glider"
+            ],
+            "element": "Pyro",
+            "weapontype": "Bow",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "August 10",
+            "constellation": "Lepus",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Character_Amber_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Character_Amber_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.",
+            "url": "https://genshin-impact.fandom.com/wiki/Amber"
+        },
+        {
+            "name": "Barbara",
+            "titles": [
+                "Shining Idol",
+                "Deaconess"
+            ],
+            "element": "Hydro",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "July 5",
+            "constellation": "Crater",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Barbara_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Barbara_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Element_Hydro.png",
+            "description": "The Deaconess of the Favonius Church and a shining starlet adored by all. Although the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless. 'I owe everything to the city's spirit of freedom'",
+            "url": "https://genshin-impact.fandom.com/wiki/Barbara"
+        },
+        {
+            "name": "Beidou",
+            "titles": [
+                "Uncrowned Lord of Ocean",
+                "Queen of the Crux Fleet",
+                "Captain Beidou"
+            ],
+            "element": "Electro",
+            "weapontype": "Claymore",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "February 14",
+            "constellation": "Victor Mare",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Beidou_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Character_Beidou_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png",
+            "description": "Captain of the Crux, with quite the reputation in Liyue. There are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her. For those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say",
+            "url": "https://genshin-impact.fandom.com/wiki/Beidou"
+        },
+        {
+            "name": "Bennett",
+            "titles": [
+                "Trial by Fire",
+                "Leader of Benny's Adventure Team"
+            ],
+            "element": "Pyro",
+            "weapontype": "Sword",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "February 29",
+            "constellation": "Rota Calamitas",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Character_Bennett_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "The few young adventurers that the Mondstadt Adventurers' Guild has always found themselves tangled up in baffling bouts of bad luck. He is the only active member of his own adventure group, known as Benny's Adventure Team, after all the other members decided to take leave following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved. Being unable to break the poor boy's heart, Katheryne of the Adventurers' Guild has kept Benny's Adventure Team on the books, whilst also hiding from him the fact that all the other members have long since officially left the team.",
+            "url": "https://genshin-impact.fandom.com/wiki/Bennett"
+        },
+        {
+            "name": "Chongyun",
+            "titles": [
+                "Frozen Ardor",
+                "Banisher of Evil and Rumors Thereof"
+            ],
+            "element": "Cryo",
+            "weapontype": "Claymore",
+            "gender": "Male",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "September 7",
+            "constellation": "Nubis Caesor",
+            
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Chongyun_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Chongyun_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Character_Chongyun_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Element_Cryo.png",
+            "description": "An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, these abilities are not the result of training, but of an inborn trait - congenital positivity.",
+            "url": "https://genshin-impact.fandom.com/wiki/Chongyun"
+        },
+        {            
+            "name": "Diluc",
+            "titles": [
+                "The Dark Side of Dawn",
+                "Darknight Hero"
+            ],
+            "element": "Pyro",
+            "weapontype": "Claymore",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "April 30",
+            "constellation": "Noctua",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Diluc_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection. But behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.",
+            "url": "https://genshin-impact.fandom.com/wiki/Diluc"
+        },
+        {
+            "name": "Diona",
+            "titles": [
+                "Kätzlein Cocktail",
+                "Wine Industry Slayer (Self-proclaimed)"
+            ],
+            "element": "Cryo",
+            "weapontype": "Bow",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "January 18",
+            "constellation": "Feles",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Diona_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Diona_Card.png",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Diona_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Element_Cryo.png",
+            "description": "The incredibly popular bartender of the Cat's Tail tavern, rising star of Mondstadt's wine industry, and the greatest challenger to its traditional powerhouses.\nA feisty feline young lady from Springvale, any drink mixed by Diona's hand tastes delicious beyond belief.\nYet given her extreme distaste for alcohol, is her talent a blessing or a curse?",
+            "url": "https://genshin-impact.fandom.com/wiki/Diona"
+        },
+        {            
+            "name": "Fischl",
+            "titles": [
+                "Prinzessin der Verurteilung",
+                "Sovereign of Immernachtreich",
+                "Ruler of the Ashen Darkness"
+            ],
+            "element": "Electro",
+            "weapontype": "Bow",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "May 27",
+            "constellation": "Corvus",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Character_Fischl_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Fischl_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png",
+            "description": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild. Through her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers' Guild's investigators, earning the recognition of all.",
+            "url": "https://genshin-impact.fandom.com/wiki/Fischl"
+        },
+        {
+            "name": "Jean",
+            "titles": [
+                "Acting Grand Master",
+                "Dandelion Knight",
+                "Lionfang Knight"
+            ],
+            "element": "Anemo",
+            "weapontype": "Sword",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "March 14",
+            "constellation": "Leo Minor",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Character_Jean_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Jean_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Jean_Portrait.png",
+            "elementimage":"https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Element_Anemo.png",
+            "description": "As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt. She had taken precautions long before the onset of Stormterror's assault, and she will guard Mondstadt with her life as always.",            
+            "url": "https://genshin-impact.fandom.com/wiki/Jean"
+        },
+        {
+            "name": "Kaeya",
+            "titles": [
+                "Cavalry Captain"
+            ],
+            "element": "Cryo",
+            "weapontype": "Sword",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "November 30",
+            "constellation": "Pavo Ocellus",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Character_Kaeya_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Character_Kaeya_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Character_Kaeya_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Element_Cryo.png",
+            "description": "In the Knights of Favonius, Kaeya is the most trusted aide for the Acting Grand Master Jean. You can always count on him to solve any intractable problems. Everyone in Mondstadt loves Kaeya, but no one knows what secrets this witty, charming knight has...",            
+            "url": "https://genshin-impact.fandom.com/wiki/Kaeya"
+        },
+        {
+            "name": "Keqing",
+            "titles": [
+                "Driving Thunder",
+                "Yuheng of the Liyue Qixing"
+            ],
+            "element": "Electro",
+            "weapontype": "Sword",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "5",
+            "birthday": "November 20",
+            "constellation": "Trulla Cementarii",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Character_Keqing_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png",
+            "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue ⁠— but in truth, gods admire skeptics such as her quite a lot. She firmly believes that humanity's future should be determined by humans themselves, and that they can even do better than the archons and adepti have done for them. In order to prove this, she works harder than anyone else.",            
+            "url": "https://genshin-impact.fandom.com/wiki/Keqing"
+        },
+        {
+            "name": "Klee",
+            "titles": [
+                "Fleeing Sunlight",
+                "Spark Knight"
+            ],
+            "element": "Pyro",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "July 27",
+            "constellation": "Trifolium",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Klee_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Character_Klee_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Character_Klee_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "Knights of Favonius Spark Knight! Forever with a bang and a flash! —And then disappearing from the stern gaze of Acting Grand Master Jean. Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas...But it'd still be better to not be in solitary in the first place.",
+            "url": "https://genshin-impact.fandom.com/wiki/Klee"
+        },
+        {
+            "name": "Lisa",
+            "titles": [
+                "Rose Witch",
+                "The Librarian"
+            ],
+            "element": "Electro",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "June 9",
+            "constellation": "Tempus Fugit",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Lisa_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png",
+            "description": "She is an intellectual witch who can never get enough naps. As the Librarian of the Knights of Favonius, Lisa is smart in that she always knows exactly what to do with whatever troubles her. As much as she loves her sleep, she still manages to keep everything under control in a calm, composed manner.",
+            "url": "https://genshin-impact.fandom.com/wiki/Lisa"
+        },
+        {
+            "name": "Mona",
+            "titles": [
+                "Enigmatic Astrologer",
+                "Astral Reflection"
+            ],
+            "element": "Hydro",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "August 31",
+            "constellation": "Astrolabos",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Element_Hydro.png",
+            "description": "A mysterious young astrologer who proclaims herself to be 'Astrologist Mona Megistus,' and who possesses abilities to match the title. Erudite, but prideful.Though she is often strapped for cash and lives a life of thrift, she is resolved to never use astrology for profit... It is this very resolution that has caused her to constantly fret about money.",
+            "url": "https://genshin-impact.fandom.com/wiki/Mona"
+        },
+        {
+            "name": "Ningguang",
+            "titles": [
+                "Eclipsing Star",
+                "Lady of the Jade Chamber"
+            ],
+            "element": "Geo",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "August 26",
+            "constellation": "Opus Aequilibrium",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Ningguang_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg/",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Element_Geo.png",
+            "description": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile. As a Tianquan of the Liyue Qixing, not only does she embody law and order, she also represents fortune and wit.",
+            "url": "https://genshin-impact.fandom.com/wiki/Ningguang"
+        },
+        {
+            "name": "Noelle",
+            "titles": [
+                "Chivalric Blossom",
+                "Maid of Favonius"
+            ],
+            "element": "Geo",
+            "weapontype": "Claymore",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "March 21",
+            "constellation": "Parma Cordis",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Character_Noelle_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Character_Noelle_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Noelle_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Element_Geo.png",
+            "description": "Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up. She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs. She holds firm to her belief that one day she will join their ranks - she just needs to keep trying her hardest at everything she does.",
+            "url": "https://genshin-impact.fandom.com/wiki/Noelle"
+        },
+        {
+            "name": "Qiqi",
+            "titles": [
+                "Pharmacist",
+                "Icy Resurrection"
+            ],
+            "element": "Cryo",
+            "weapontype": "Sword",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "5",
+            "birthday": "March 3",
+            "constellation": "Pristina Nola",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Qiqi_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Qiqi_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Element_Cryo.png",
+            "description": "An apprentice and herb gatherer at Bubu Pharmacy. 'Blessed' by the adepti with a body that cannot die, this petite zombie cannot do anything without first giving herself orders to do it. Qiqi's memory is like a sieve. Out of necessity, she always carries around a notebook in which she writes anything important that she is sure to forget later. But on her worst days, she even forgets to look at her notebook...",
+            "url": "https://genshin-impact.fandom.com/wiki/Qiqi"
+        },
+        {
+            "name": "Razor",
+            "titles": [
+                "Legend of Wolvendom",
+                "Wolf Boy"
+            ],
+            "element": "Electro",
+            "weapontype": "Claymore",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "September 9",
+            "constellation": "Lupus Minor",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Character_Razor_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Razor_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Razor_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png",
+            "description": "Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.",
+            "url": "https://genshin-impact.fandom.com/wiki/Razor"
+        },
+        {
+            "name": "Sucrose",
+            "titles": [
+                "Harmless Sweetie",
+                "Knights of Favonius Alchemist"
+            ],
+            "element": "Anemo",
+            "weapontype": "Catalyst",
+            "gender": "Female",
+            "region": "Mondstadt",
+            "rarity": "4",
+            "birthday": "November 26",
+            "constellation": "Ampulla",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Sucrose_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Character_Sucrose_Portrait.png",
+            "elementimage":"https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Element_Anemo.png",
+            "description": "An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to Albedo, her area of focus is 'bio-alchemy.' She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.",
+            "url": "https://genshin-impact.fandom.com/wiki/Sucrose"
+        },
+        {
+            "name": "Tartaglia",
+            "aliases": ["Childe"],
+            "titles": [
+                "Childe",
+                "Eleventh of the Fatui Harbingers"
+            ],
+            "element": "Hydro",
+            "weapontype": "Bow",
+            "gender": "Male",
+            "region": "Snezhnaya",
+            "rarity": "5",
+            "birthday": "July 20",
+            "constellation": "Monoceros Caeli",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Character_Childe_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Tartaglia_Card.png",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Character_Tartaglia_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Element_Hydro.png",
+            "description": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.\nDon't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.",
+            "url": "https://genshin-impact.fandom.com/wiki/Tartaglia"
+        },
+        {
+            "name": "Venti",
+            "titles": [
+                "Windborne Bard",
+                "The God of Freedom",
+                "Tone-Deaf Bar"
+            ],
+            "element": "Anemo",
+            "weapontype": "Bow",
+            "gender": "Male",
+            "region": "Mondstadt",
+            "rarity": "5",
+            "birthday": "June 16",
+            "constellation": "Carmen Dei",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Venti_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Venti_Portrait.png",
+            "elementimage":"https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Element_Anemo.png",
+            "description": "A bard that seems to have arrived on some unknown wind - sometimes sings songs as old as the hills, and other times sings poems fresh and new. Likes apples and lively places, but is not a fan of cheese or anything sticky. When using his Anemo power to control the wind, it often appears as feathers, as he's fond of that which appears light and breezy.",
+            "url": "https://genshin-impact.fandom.com/wiki/Venti"
+        },
+        {
+            "name": "Xiangling",
+            "titles": [
+                "Exquisite Delicacy",
+                "Chef de Cuisine"
+            ],
+            "element": "Pyro",
+            "weapontype": "Polearm",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "November 2",
+            "constellation": "Trulla",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Character_Xiangling_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Xiangling_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "The Head Chef at the Wanmin Restaurant and also a waitress there, Xiangling is extremely passionate about cooking and excels at her signature hot and spicy dishes. Though still young, Xiangling is a true master of the culinary arts with all the skills of a kitchen veteran. She enjoys a good reputation among the hearty eaters at Chihu Rock. There's absolutely no need to be nervous if she wants you to sample her latest creation. It will not disappoint. Promise.",
+            "url": "https://genshin-impact.fandom.com/wiki/Xiangling"
+        },
+        {
+            "name": "Xiao",
+            "titles": [
+                "Guardian Yaksha",
+                "Nuo Dance of Evil Conquering",
+                "Alatus, the Golden-Winged King"
+            ],
+            "element": "Anemo",
+            "weapontype": "Polearm",
+            "gender": "Male",
+            "region": "Liyue",
+            "rarity": "5",
+            "birthday": "April 17",
+            "constellation": "Alatus Nemeseos",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Xiao_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Xiao_Portrait.png",
+            "elementimage":"https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Element_Anemo.png",
+            "description": "One of the \"Mighty and Illuminated Adepti\" guarding Liyue, also heralded as the \"Guardian yaksha.\"\nDespite his appearance as a young man, occasional legends about him have been documented in ancient books for thousands of years.\nHe is especially fond of Wangshu Inn's Almond Tofu.\nThe reason is that the dish tastes just like the \"dreams\" he used to devour.",
+            "url": "https://genshin-impact.fandom.com/wiki/Xiao"
+        },
+        {
+            "name": "Xingqiu",
+            "titles": [
+                "Juvenile Galant",
+                "Guhua Guru of Feiyun Fame",
+                "Guhua Geek"
+            ],
+            "element": "Hydro",
+            "weapontype": "Sword",
+            "gender": "Male",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "October 9",
+            "constellation": "Fabulae Textile",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Xingqiu_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Xingqiu_Card.jpg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Xingqiu_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Element_Hydro.png",
+            "description": "The second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child. But there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side...",
+            "url": "https://genshin-impact.fandom.com/wiki/Xingqiu"
+        },
+        {
+            "name": "Xinyan",
+            "titles": [
+                "Blazing Riff",
+                "Rock 'n' Roll Musician"
+            ],
+            "element": "Pyro",
+            "weapontype": "Claymore",
+            "gender": "Female",
+            "region": "Liyue",
+            "rarity": "4",
+            "birthday": "October 16",
+            "constellation": "Fila Ignium",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Character_Xinyan_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Xinyan_Card.jpeg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png",
+            "description": "Rock 'n' roll is an avant-garde art in Liyue Harbor and Xinyan is the pioneer in this field.\nShe rebels against ossified prejudices, using her music and passionate singing to awaken dazed souls fatigued by worldly matters.\nIf you get the chance, do not miss out on her next performance!",
+            "url": "https://genshin-impact.fandom.com/wiki/Xinyan"
+        },
+        {
+            "name": "Zhongli",
+            "titles": [
+                "Vago Mundo"
+            ],
+            "element": "Geo",
+            "weapontype": "Polearm",
+            "gender": "Male",
+            "region": "Liyue",
+            "rarity": "5",
+            "birthday": "December 31",
+            "constellation": "Lapis Dei",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png",
+            "card": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Character_Zhongli_Card.jpeg",
+            "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Character_Zhongli_Portrait.png",
+            "elementimage": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Element_Geo.png",            
+            "description": "Wangsheng Funeral Parlor's mysterious consultant. Handsome, elegant, and surpassingly learned.\nThough no one knows where Zhongli is from, he is a master of courtesy and rules. From his seat at Wangsheng Funeral Parlor, he performs all manner of rituals.",
+            "url": "https://genshin-impact.fandom.com/wiki/Zhongli"
+        }
+    ]
+}
